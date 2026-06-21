@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head><title>Links - Cafeteria</title></head>
+<body>
+    <h1>Links sobre Café</h1>
+    <ul>
+        <li><a href="https://www.mexidodeideias.com.br/" target="_blank">Mexido de Ideias - Blog de Café</a></li>
+        <li><a href="https://revistacafeicultura.com.br/" target="_blank">Revista Cafeicultura</a></li>
+        <li><a href="https://www.bscacoffee.org/" target="_blank">Associação Brasileira de Cafés Especiais</a></li>
+    </ul>
+    <a href="index.html">Voltar ao início</a>
+</body>
+</html>

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>1245616 - Camilli Vitoria Gonçalves da Silva Oliveira</title>
+</head>
+<body>
+    <a href="https://www.uniube.br" target="_blank">
+        <img src="imagens/logo-uniube.png" alt="Logo Uniube" width="180">
+    </a>
+
+    <h1>Cafeteria Aroma do Saber</h1>
+    <img src="imagens/xicara-cafe.jpg" width="400" alt="Xícara de café">
+
+    <h2>Menu</h2>
+    <ul>
+        <li><a href="index.html">Início</a></li>
+        <li><a href="links.html">Links</a></li>
+        <li><a href="imagens.html">Galeria</a></li>
+        <li><a href="fale_conosco.html">Fale Conosco</a></li>
+    </ul>
+
+    <h2>Cardápio - Top 3 mais pedidos</h2>
+    <ol>
+        <li>Cappuccino Cremoso</li>
+        <li>Bolo de Chocolate</li>
+        <li>Expresso Duplo</li>
+    </ol>
+
+    <h2>Horário de Funcionamento</h2>
+    <table border="1">
+        <tr>
+            <td>Segunda a Sexta</td>
+            <td>07h às 19h</td>
+        </tr>
+        <tr>
+            <td>Sábado</td>
+            <td>08h às 16h</td>
+        </tr>
+        <tr>
+            <td>Domingo</td>
+            <td>Fechado</td>
+        </tr>
+    </table>
+</body>
+</html>

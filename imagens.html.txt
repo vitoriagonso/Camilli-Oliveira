@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head><title>Galeria - Cafeteria</title></head>
+<body>
+    <h1>Nossa Galeria</h1>
+    <img src="imagens/xicara-cafe.jpg" width="300" alt="Café expresso">
+    <img src="imagens/graos-cafe.jpg" width="300" alt="Grãos de café">
+    <img src="imagens/bolo-chocolate.jpg" width="300" alt="Bolo de chocolate">
+    <br>
+    <a href="index.html">Voltar ao início</a>
+</body>
+</html>
